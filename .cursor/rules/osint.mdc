@@ -1,0 +1,26 @@
+---
+description: OSINT research methodology — multi-wave investigative spiral. Public sources only. Structured intel briefing as output.
+alwaysApply: false
+---
+
+# OSINT methodology
+
+## Five waves
+
+1. Surface map — what's publicly known
+2. Context — affiliations, timeline, geography
+3. Patterns — recurring themes + anomalies
+4. Predictions — likely moves + watch signals
+5. Briefing — structured deliverable
+
+## Scope
+
+Public sources only. No paywalled DBs, no social engineering, no doxxing of private individuals.
+
+## Anti-patterns
+
+- Confirmation bias
+- Source laundering
+- Currency confusion
+- Single-signal extrapolation
+- Going past public sources
