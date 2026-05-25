@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ormus.solutions/mascot/golden_swan.gif" alt="OSINT Skills" width="128" style="image-rendering: pixelated;" />
+  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_eye.gif" alt="OSINT Skills" width="128" style="image-rendering: pixelated;" />
 </p>
 
 <h1 align="center">OSINT Skills</h1>
