@@ -1,6 +1,23 @@
-# OSINT Skills
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="OSINT Skills" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> A single `CLAUDE.md` for OSINT (Open-Source Intelligence) research methodology — multi-wave investigative spiral with structured intel briefing output.
+<h1 align="center">OSINT Skills</h1>
+
+<p align="center">
+  <em>A CLAUDE.md for OSINT (Open-Source Intelligence) research methodology — multi-wave investigative spiral, structured intel briefing output, ethical scope boundaries.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/osint-skills/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/osint-skills?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/osint-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/osint-skills?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/osint-skills/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/osint-skills?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **A single `CLAUDE.md` for OSINT (Open-Source Intelligence) research methodology — multi-wave investigative spiral with structured intel briefing output.**
 
 ## The methodology
 
